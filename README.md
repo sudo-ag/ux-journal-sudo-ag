@@ -1,1 +1,1 @@
-# ___'s UX Journal
+# Alexes Gonzalez (sudo-ag) UX Journal
