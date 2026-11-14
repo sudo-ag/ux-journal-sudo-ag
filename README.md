@@ -5,3 +5,6 @@
 1. From los Angeles
 2. Love doing CTFS.
 3. I make electronic music for one of my hobbies
+
+## journal
+- [j01 — First time using Ableton](j01.html)
